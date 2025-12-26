@@ -46,24 +46,32 @@ Uvicorn			                                            ASGI server
 fastapi-notes-app/
 │
 ├── app/
+
 │   ├── main.py          # FastAPI entry point
+
 │   ├── database.py      # MongoDB connection
+
 │   ├── models.py        # Pydantic models
+
 │   ├── routes.py        # API routes
+
 │   └── templates/       # HTML templates
 │
 ├── static/
+
 │   └── css/             # Bootstrap & custom styles
 │
 ├── requirements.txt
+
 ├── README.md
+
 └── .env
 
 ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/fastapi-notes-app.git
+git clone https://github.com/wasvaibhav/fastapi.git
 
 cd fastapi-notes-app
 
