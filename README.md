@@ -7,39 +7,39 @@ This project is perfect for beginners who want to learn backend development with
 
 📌 Features
 
-✅ Create new notes
+    ✅ Create new notes
 
-✅ View all notes
+    ✅ View all notes
 
-✅ Update existing notes
+    ✅ Update existing notes
 
-✅ Delete notes
+    ✅ Delete notes
 
-✅ RESTful API using FastAPI
+    ✅ RESTful API using FastAPI
 
-✅ MongoDB integration
+    ✅ MongoDB integration
 
-✅ Responsive UI using Bootstrap
+    ✅ Responsive UI using Bootstrap
 
-✅ Beginner-friendly & well-structured code
+    ✅ Beginner-friendly & well-structured code
 
 🛠️ Tech Stack
 
 Technology                                            	Usage
 
-FastAPI	                                                Backend API
+  FastAPI	                                                Backend API
 
-Python	                                                Core programming
+  Python	                                                Core programming
 
-MongoDB		                                              Database
+  MongoDB		                                              Database
 
-Pydantic		                                            Data validation
+  Pydantic		                                            Data validation
 
-Bootstrap		                                            Frontend styling
+  Bootstrap		                                            Frontend styling
 
-HTML / Jinja2		                                        Templates
+  HTML / Jinja2		                                        Templates
 
-Uvicorn			                                            ASGI server
+  Uvicorn			                                            ASGI server
 
 📂 Project Structure
 <img width="1120" height="566" alt="image" src="https://github.com/user-attachments/assets/e32b68ab-709b-4e1c-a096-8caca35f9f76" />
