@@ -41,3 +41,45 @@ HTML / Jinja2		                                        Templates
 
 Uvicorn			                                            ASGI server
 
+📂 Project Structure
+
+fastapi-notes-app/
+│
+├── app/
+│   ├── main.py          # FastAPI entry point
+│   ├── database.py      # MongoDB connection
+│   ├── models.py        # Pydantic models
+│   ├── routes.py        # API routes
+│   └── templates/       # HTML templates
+│
+├── static/
+│   └── css/             # Bootstrap & custom styles
+│
+├── requirements.txt
+├── README.md
+└── .env
+
+⚙️ Installation & Setup
+1️⃣ Clone the repository
+git clone https://github.com/your-username/fastapi-notes-app.git
+cd fastapi-notes-app
+
+2️⃣ Create virtual environment
+python -m venv venv
+venv\Scripts\activate    # Windows
+
+3️⃣ Install dependencies
+pip install -r requirements.txt
+
+4️⃣ Setup MongoDB
+
+Install MongoDB locally OR
+
+Use MongoDB Atlas
+
+Update connection string in .env
+
+MONGO_URI=mongodb://localhost:27017
+
+5️⃣ Run the application
+uvicorn app.main:app --reload
