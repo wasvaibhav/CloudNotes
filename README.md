@@ -31,15 +31,15 @@ This project is perfect for beginners who want to learn backend development with
 
     Python	                                                Core programming
 
-    MongoDB		                                              Database
+    MongoDB		                                            Database
 
-    Pydantic		                                            Data validation
+    Pydantic		                                        Data validation
 
-    Bootstrap		                                            Frontend styling
+    Bootstrap		                                        Frontend styling
 
-    HTML / Jinja2		                                        Templates
+    HTML / Jinja2		                                    Templates
 
-  Uvicorn			                                            ASGI server
+    Uvicorn			                                        ASGI server
 
 📂 Project Structure
 <img width="1120" height="566" alt="image" src="https://github.com/user-attachments/assets/e32b68ab-709b-4e1c-a096-8caca35f9f76" />
