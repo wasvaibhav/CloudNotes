@@ -25,19 +25,19 @@ This project is perfect for beginners who want to learn backend development with
 
 🛠️ Tech Stack
 
-Technology                                            	Usage
+    Technology                                            	Usage
 
-  FastAPI	                                                Backend API
+    FastAPI	                                                Backend API
 
-  Python	                                                Core programming
+    Python	                                                Core programming
 
-  MongoDB		                                              Database
+    MongoDB		                                              Database
 
-  Pydantic		                                            Data validation
+    Pydantic		                                            Data validation
 
-  Bootstrap		                                            Frontend styling
+    Bootstrap		                                            Frontend styling
 
-  HTML / Jinja2		                                        Templates
+    HTML / Jinja2		                                        Templates
 
   Uvicorn			                                            ASGI server
 
@@ -49,30 +49,30 @@ Technology                                            	Usage
 
 1️⃣ Clone the repository
 
-git clone https://github.com/wasvaibhav/fastapi.git
+    git clone https://github.com/wasvaibhav/fastapi.git
 
-cd fastapi-notes-app
+    cd fastapi-notes-app
 
 2️⃣ Create virtual environment
 
-python -m venv venv
+    python -m venv venv
 
-venv\Scripts\activate    # Windows
+    venv\Scripts\activate    # Windows
 
 3️⃣ Install dependencies
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4️⃣ Setup MongoDB
 
-Install MongoDB locally OR
+    Install MongoDB locally OR
 
-Use MongoDB Atlas
+    `Use MongoDB Atlas
 
-Update connection string in .env
+    Update connection string in .env
 
-MONGO_URI=mongodb://localhost:27017
+    MONGO_URI=mongodb://localhost:27017
 
 5️⃣ Run the application
 
-uvicorn app.main:app --reload
+    uvicorn app.main:app --reload
