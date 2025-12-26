@@ -25,19 +25,19 @@ This project is perfect for beginners who want to learn backend development with
 
 🛠️ Tech Stack
 
-Technology	Usage
+Technology                                            	Usage
 
-FastAPI	Backend API
+FastAPI	                                                Backend API
 
-Python	Core programming
+Python	                                                Core programming
 
-MongoDB	Database
+MongoDB		                                              Database
 
-Pydantic	Data validation
+Pydantic		                                            Data validation
 
-Bootstrap	Frontend styling
+Bootstrap		                                            Frontend styling
 
-HTML / Jinja2	Templates
+HTML / Jinja2		                                        Templates
 
-Uvicorn	ASGI server
+Uvicorn			                                            ASGI server
 
