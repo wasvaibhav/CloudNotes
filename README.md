@@ -60,15 +60,21 @@ fastapi-notes-app/
 └── .env
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
+
 git clone https://github.com/your-username/fastapi-notes-app.git
+
 cd fastapi-notes-app
 
 2️⃣ Create virtual environment
+
 python -m venv venv
+
 venv\Scripts\activate    # Windows
 
 3️⃣ Install dependencies
+
 pip install -r requirements.txt
 
 4️⃣ Setup MongoDB
@@ -82,4 +88,5 @@ Update connection string in .env
 MONGO_URI=mongodb://localhost:27017
 
 5️⃣ Run the application
+
 uvicorn app.main:app --reload
