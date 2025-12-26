@@ -1,9 +1,6 @@
 🚀 FastAPI Notes App
 
-FastAPI Tutorial | Build a Notes App using FastAPI, MongoDB & Bootstrap
-
-A full-stack Notes Application built using FastAPI, MongoDB, and Bootstrap, explained step-by-step in Hindi.
-This project is perfect for beginners who want to learn backend development with FastAPI and connect it with a database and frontend UI.
+FastAPI| Build a Notes App using FastAPI, MongoDB & Bootstrap
 
 📌 Features
 
@@ -76,3 +73,41 @@ This project is perfect for beginners who want to learn backend development with
 5️⃣ Run the application
 
     uvicorn app.main:app --reload
+
+
+
+📸 Preview
+
+A clean, responsive Notes app UI built with Bootstrap.
+
+(You can add screenshots here)
+
+
+🤝 Contributing
+
+Contributions are welcome!
+If you find a bug or want to improve something:
+
+Fork the repo
+
+Create a new branch
+
+Make changes
+
+Submit a Pull Request   
+
+⭐ Support
+
+If this project helped you:
+
+⭐ Star the repository
+
+📢 Share with friends
+
+
+📬 Contact
+
+Author: Vaibhav Singh Kaira
+📧 Email: your- kairavaibhav101@gmail.com
+
+💻 GitHub: https://github.com/wasvaibhav
