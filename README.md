@@ -112,4 +112,4 @@ Author: Vaibhav Singh Kaira
 
 📧 Email: your- kairavaibhav101@gmail.com
 
-💻 GitHub:*	[wasvaibhav](http://github.com/wasvaibhav)
+💻 GitHub:*	  [wasvaibhav](http://github.com/wasvaibhav)
