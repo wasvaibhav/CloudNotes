@@ -42,30 +42,8 @@ HTML / Jinja2		                                        Templates
 Uvicorn			                                            ASGI server
 
 📂 Project Structure
+<img width="1120" height="566" alt="image" src="https://github.com/user-attachments/assets/e32b68ab-709b-4e1c-a096-8caca35f9f76" />
 
-fastapi-notes-app/
-│
-├── app/
-
-│   ├── main.py          # FastAPI entry point
-
-│   ├── database.py      # MongoDB connection
-
-│   ├── models.py        # Pydantic models
-
-│   ├── routes.py        # API routes
-
-│   └── templates/       # HTML templates
-│
-├── static/
-
-│   └── css/             # Bootstrap & custom styles
-│
-├── requirements.txt
-
-├── README.md
-
-└── .env
 
 ⚙️ Installation & Setup
 
