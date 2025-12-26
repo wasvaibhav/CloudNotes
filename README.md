@@ -7,12 +7,19 @@ This project is perfect for beginners who want to learn backend development with
 📌 Features
 
 ✅ Create new notes
+
 ✅ View all notes
+
 ✅ Update existing notes
+
 ✅ Delete notes
+
 ✅ RESTful API using FastAPI
+
 ✅ MongoDB integration
+
 ✅ Responsive UI using Bootstrap
+
 ✅ Beginner-friendly & well-structured code
 
 🛠️ Tech Stack
