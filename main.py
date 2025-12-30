@@ -10,7 +10,7 @@ app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 
-conn = MongoClient("mongodb+srv://wasvaibhav:IaXyfw1qafcdj5ZT@mongodb.k6nroay.mongodb.net/?appName=mongoDB")
+conn = MongoClient("mongodb+srv://wasvaibhav:IaXyfw1qafcdj5ZT@mongodb.k6nroay.mongodb.net/notes")
 
 @app.get("/", response_class=HTMLResponse)
 async def home(request: Request):
