@@ -3,7 +3,6 @@
 FastAPI| Build a Notes App using FastAPI, MongoDB & Bootstrap
 
 📌 Features
-
     ✅ Create new notes
 
     ✅ View all notes
